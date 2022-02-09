@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GenzFilipino
 - 👀 I’m interested in the newest technology in the market.
-- 🌱 I’m currently learning flutter framework and cross-platform applications.
+- 🌱 I’m currently learning flutter framework and how to create cross-platform applications.
 - 📫 How to reach me, feel free to contact me @ genzfilipino.1dev@gmail.com if you want me to create apps for you
 
 <!---
